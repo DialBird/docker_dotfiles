@@ -26,12 +26,6 @@ alias gst='git stash'
 alias gstk='git stash --keep-index'
 
 # ------------------------------------------------------
-# etc
-# ------------------------------------------------------
-alias be='bundle exec'
-alias ctags="`brew --prefix`/bin/ctags"
-
-# ------------------------------------------------------
 # export
 # ------------------------------------------------------
 export TERM=screen-256color
